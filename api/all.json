@@ -32,7 +32,7 @@
       },
       "powerstats":{
          "intelligence":16,
-         "strenght":3,
+         "strength":3,
          "speed":11,
          "durability":54,
          "power":19,
@@ -76,7 +76,7 @@
       },
       "powerstats":{
          "intelligence":17,
-         "strenght":2,
+         "strength":2,
          "speed":8,
          "durability":45,
          "power":15,
@@ -120,7 +120,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strenght":2,
+         "strength":2,
          "speed":16,
          "durability":48,
          "power":16,
@@ -164,7 +164,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strenght":2,
+         "strength":2,
          "speed":8,
          "durability":45,
          "power":14,
