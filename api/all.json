@@ -12,11 +12,11 @@
          "hairColor":"Product & Service Incidents"
       },
       "biography":{
-         "fullName":"24,909",
+         "fullName":"Bank Central Asia",
          "alterEgos":"PT Bank Central Asia Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
-         "firstAppearance":"27,272",
+         "firstAppearance":"Jakarta",
          "publisher":"Jakarta",
          "alignment":"Mr. Jahja  Setiaatmadja"
       },
@@ -36,11 +36,11 @@
          "speed":11,
          "durability":54,
          "power":19,
-         "combat":43
+         "combat":87
       },
       "work":{
-         "occupation":"55% Held",
-         "base":"Jakarta"
+         "occupation":"21% Held",
+         "base":"62% Held"
       }
    },
    {
@@ -56,11 +56,11 @@
          "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
-         "fullName":"5,952",
+         "fullName":"Bank Rakyat Indonesia (Persero)",
          "alterEgos":"PT Bank Rakyat Indonesia (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
-         "firstAppearance":"61,900",
+         "firstAppearance":"Jakarta",
          "publisher":"Jakarta",
          "alignment":"Mr. -  Sunarso"
       },
@@ -80,11 +80,11 @@
          "speed":8,
          "durability":45,
          "power":15,
-         "combat":42
+         "combat":36
       },
       "work":{
-         "occupation":"50% Held",
-         "base":"Jakarta"
+         "occupation":"20% Held",
+         "base":"60% Held"
       }
    },
    {
@@ -100,11 +100,11 @@
          "hairColor":"Product & Service Incidents"
       },
       "biography":{
-         "fullName":"13,940",
+         "fullName":"Bank Mandiri (Persero)",
          "alterEgos":"PT Bank Mandiri (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
-         "firstAppearance":"38,797",
+         "firstAppearance":"Jakarta",
          "publisher":"Jakarta",
          "alignment":"Mr. Hery  Gunardi"
       },
@@ -124,11 +124,11 @@
          "speed":16,
          "durability":48,
          "power":16,
-         "combat":36
+         "combat":26
       },
       "work":{
-         "occupation":"45% Held",
-         "base":"Jakarta"
+         "occupation":"16% Held",
+         "base":"64% Held"
       }
    },
    {
@@ -144,11 +144,11 @@
          "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
-         "fullName":"20,215",
+         "fullName":"Bank Negara Indonesia (Persero)",
          "alterEgos":"PT Bank Negara Indonesia (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
-         "firstAppearance":"31,761",
+         "firstAppearance":"Jakarta",
          "publisher":"Jakarta",
          "alignment":"Mr. Herry  Sidharta"
       },
@@ -168,11 +168,11 @@
          "speed":8,
          "durability":45,
          "power":14,
-         "combat":38
+         "combat":15
       },
       "work":{
-         "occupation":"34% Held",
-         "base":"Jakarta"
+         "occupation":"13% Held",
+         "base":"61% Held"
       }
    }
 ]
