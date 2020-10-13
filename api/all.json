@@ -4,12 +4,12 @@
       "name":"BBCA",
       "slug":"1-BBCA",
       "appearance":{
-         "gender":"Medium Risk",
-         "race":27,
-         "height":2,
-         "weight":12,
-         "eyeColor":12,
-         "hairColor":44
+         "gender":"Medium Controversy Level",
+         "race":"Medium Risk",
+         "height":"Neglected Risk",
+         "weight":"Low Risk",
+         "eyeColor":"Low Risk",
+         "hairColor":"Product & Service Incidents"
       },
       "biography":{
          "fullName":"24,909",
@@ -39,7 +39,7 @@
          "combat":43
       },
       "work":{
-         "occupation":55,
+         "occupation":"55% Held",
          "base":"Jakarta"
       }
    },
@@ -48,12 +48,12 @@
       "name":"BBRI",
       "slug":"2-BBRI",
       "appearance":{
-         "gender":"Medium Risk",
-         "race":28,
-         "height":2,
-         "weight":12,
-         "eyeColor":13,
-         "hairColor":48
+         "gender":"Medium Controversy Level",
+         "race":"Medium Risk",
+         "height":"Neglected Risk",
+         "weight":"Low Risk",
+         "eyeColor":"Low Risk",
+         "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
          "fullName":"5,952",
@@ -83,7 +83,7 @@
          "combat":42
       },
       "work":{
-         "occupation":50,
+         "occupation":"50% Held",
          "base":"Jakarta"
       }
    },
@@ -92,12 +92,12 @@
       "name":"BMRI",
       "slug":"3-BMRI",
       "appearance":{
-         "gender":"High Risk",
-         "race":30,
-         "height":2,
-         "weight":13,
-         "eyeColor":15,
-         "hairColor":57
+         "gender":"Medium Controversy Level",
+         "race":"High Risk",
+         "height":"Neglected Risk",
+         "weight":"Low Risk",
+         "eyeColor":"Low Risk",
+         "hairColor":"Product & Service Incidents"
       },
       "biography":{
          "fullName":"13,940",
@@ -127,7 +127,7 @@
          "combat":36
       },
       "work":{
-         "occupation":45,
+         "occupation":"45% Held",
          "base":"Jakarta"
       }
    },
@@ -136,12 +136,12 @@
       "name":"BBNI",
       "slug":"4-BBNI",
       "appearance":{
-         "gender":"Medium Risk",
-         "race":29,
-         "height":2,
-         "weight":13,
-         "eyeColor":14,
-         "hairColor":52
+         "gender":"Medium Controversy Level",
+         "race":"Medium Risk",
+         "height":"Neglected Risk",
+         "weight":"Low Risk",
+         "eyeColor":"Low Risk",
+         "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
          "fullName":"20,215",
@@ -171,7 +171,7 @@
          "combat":38
       },
       "work":{
-         "occupation":34,
+         "occupation":"34% Held",
          "base":"Jakarta"
       }
    }
