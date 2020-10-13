@@ -1,5 +1,5 @@
-{
-   "1":{
+[
+   {
       "id":1,
       "name":"BBCA",
       "slug":"1-BBCA",
@@ -43,7 +43,7 @@
          "base":"Jakarta"
       }
    },
-   "2":{
+   {
       "id":2,
       "name":"BBRI",
       "slug":"2-BBRI",
@@ -87,7 +87,7 @@
          "base":"Jakarta"
       }
    },
-   "3":{
+   {
       "id":3,
       "name":"BMRI",
       "slug":"3-BMRI",
@@ -131,7 +131,7 @@
          "base":"Jakarta"
       }
    },
-   "4":{
+   {
       "id":4,
       "name":"BBNI",
       "slug":"4-BBNI",
@@ -175,4 +175,4 @@
          "base":"Jakarta"
       }
    }
-}
+]
