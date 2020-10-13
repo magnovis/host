@@ -1,25 +1,28 @@
 {
    "1":{
+      "id":1,
+      "name":"BBCA",
+      "slug":"1-BBCA",
       "appearance":{
-         "peergroup":"Banks",
-         "sustainable":62,
-         "environment":63,
-         "social":61,
-         "governance":63,
-         "controversy":40
+         "gender":"Medium Risk",
+         "race":27,
+         "height":2,
+         "weight":12,
+         "eyeColor":12,
+         "hairColor":44
       },
       "biography":{
-         "country":"Indonesia",
-         "institutional":21,
-         "summary":"PT Bank Central Asia Tbk provides banking products and services to individual, corporate, and small and medium enterprise customers in Indonesia and internationally. It offers deposits accounts, loans, transaction banking services, electronic banking servi"
+         "fullName":"24,909",
+         "alterEgos":"PT Bank Central Asia Tbk",
+         "aliases":"IDR",
+         "placeOfBirth":"Indonesia",
+         "firstAppearance":"27,272",
+         "publisher":"Jakarta",
+         "alignment":"Mr. Jahja  Setiaatmadja"
       },
       "connections":{
-         "related":"Product & Service Incidents"
-      },
-      "id":{
-         "id":1,
-         "name":"BBCA",
-         "slug":"1-BBCA"
+         "groupAffiliation":"Banks—Regional",
+         "relatives":"Financial Services"
       },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
@@ -28,39 +31,42 @@
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
       },
       "powerstats":{
-         "management":17,
-         "business":3,
-         "growth":-14,
-         "durability":53,
-         "power":75,
-         "profitability":42
+         "intelligence":16,
+         "strenght":3,
+         "speed":11,
+         "durability":54,
+         "power":19,
+         "combat":43
       },
       "work":{
-         "industry":"Banks—Regional",
-         "sector":"Financial Services"
+         "occupation":55,
+         "base":"Jakarta"
       }
    },
    "2":{
+      "id":2,
+      "name":"BBRI",
+      "slug":"2-BBRI",
       "appearance":{
-         "peergroup":"Banks",
-         "sustainable":65,
-         "environment":63,
-         "social":62,
-         "governance":67,
-         "controversy":40
+         "gender":"Medium Risk",
+         "race":28,
+         "height":2,
+         "weight":12,
+         "eyeColor":13,
+         "hairColor":48
       },
       "biography":{
-         "country":"Indonesia",
-         "institutional":20,
-         "summary":"PT Bank Rakyat Indonesia (Persero) Tbk provides various banking products and services in Indonesia, Asia, and the United States. The company accepts demand, savings, and time deposits; and inter-bank call money, as well as deposits on call from customers, "
+         "fullName":"5,952",
+         "alterEgos":"PT Bank Rakyat Indonesia (Persero) Tbk",
+         "aliases":"IDR",
+         "placeOfBirth":"Indonesia",
+         "firstAppearance":"61,900",
+         "publisher":"Jakarta",
+         "alignment":"Mr. -  Sunarso"
       },
       "connections":{
-         "related":"Product & Service Incidents,Society & Community Incidents"
-      },
-      "id":{
-         "id":2,
-         "name":"BBRI",
-         "slug":"2-BBRI"
+         "groupAffiliation":"Banks—Regional",
+         "relatives":"Financial Services"
       },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
@@ -69,39 +75,42 @@
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
       },
       "powerstats":{
-         "management":15,
-         "business":2,
-         "growth":-15,
-         "durability":40,
-         "power":87,
-         "profitability":35
+         "intelligence":17,
+         "strenght":2,
+         "speed":8,
+         "durability":45,
+         "power":15,
+         "combat":42
       },
       "work":{
-         "industry":"Banks—Regional",
-         "sector":"Financial Services"
+         "occupation":50,
+         "base":"Jakarta"
       }
    },
    "3":{
+      "id":3,
+      "name":"BMRI",
+      "slug":"3-BMRI",
       "appearance":{
-         "peergroup":"Banks",
-         "sustainable":71,
-         "environment":66,
-         "social":66,
-         "governance":76,
-         "controversy":40
+         "gender":"High Risk",
+         "race":30,
+         "height":2,
+         "weight":13,
+         "eyeColor":15,
+         "hairColor":57
       },
       "biography":{
-         "country":"Indonesia",
-         "institutional":16,
-         "summary":"PT Bank Mandiri (Persero) Tbk provides various banking products and services to individuals and businesses in Indonesia, Singapore, Hong Kong, Timor Leste, Shanghai, Malaysia, the United Kingdom, and Cayman Islands. It offers savings and current accounts, "
+         "fullName":"13,940",
+         "alterEgos":"PT Bank Mandiri (Persero) Tbk",
+         "aliases":"IDR",
+         "placeOfBirth":"Indonesia",
+         "firstAppearance":"38,797",
+         "publisher":"Jakarta",
+         "alignment":"Mr. Hery  Gunardi"
       },
       "connections":{
-         "related":"Product & Service Incidents"
-      },
-      "id":{
-         "id":3,
-         "name":"BMRI",
-         "slug":"3-BMRI"
+         "groupAffiliation":"Banks—Regional",
+         "relatives":"Financial Services"
       },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
@@ -110,39 +119,42 @@
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
       },
       "powerstats":{
-         "management":13,
-         "business":2,
-         "growth":-28,
-         "durability":44,
-         "power":151,
-         "profitability":33
+         "intelligence":13,
+         "strenght":2,
+         "speed":16,
+         "durability":48,
+         "power":16,
+         "combat":36
       },
       "work":{
-         "industry":"Banks—Regional",
-         "sector":"Financial Services"
+         "occupation":45,
+         "base":"Jakarta"
       }
    },
    "4":{
+      "id":4,
+      "name":"BBNI",
+      "slug":"4-BBNI",
       "appearance":{
-         "peergroup":"Banks",
-         "sustainable":68,
-         "environment":64,
-         "social":66,
-         "governance":70,
-         "controversy":40
+         "gender":"Medium Risk",
+         "race":29,
+         "height":2,
+         "weight":13,
+         "eyeColor":14,
+         "hairColor":52
       },
       "biography":{
-         "country":"Indonesia",
-         "institutional":13,
-         "summary":"PT Bank Negara Indonesia (Persero) Tbk, together with its subsidiaries, provides various banking products and services in Indonesia, New York, Europe, and Asia. The company offers current account, savings, and time deposit products. It also provides credit"
+         "fullName":"20,215",
+         "alterEgos":"PT Bank Negara Indonesia (Persero) Tbk",
+         "aliases":"IDR",
+         "placeOfBirth":"Indonesia",
+         "firstAppearance":"31,761",
+         "publisher":"Jakarta",
+         "alignment":"Mr. Herry  Sidharta"
       },
       "connections":{
-         "related":"Product & Service Incidents,Society & Community Incidents"
-      },
-      "id":{
-         "id":4,
-         "name":"BBNI",
-         "slug":"4-BBNI"
+         "groupAffiliation":"Banks—Regional",
+         "relatives":"Financial Services"
       },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
@@ -151,16 +163,16 @@
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
       },
       "powerstats":{
-         "management":11,
-         "business":1,
-         "growth":-39,
-         "durability":40,
-         "power":95,
-         "profitability":33
+         "intelligence":13,
+         "strenght":2,
+         "speed":8,
+         "durability":45,
+         "power":14,
+         "combat":38
       },
       "work":{
-         "industry":"Banks—Regional",
-         "sector":"Financial Services"
+         "occupation":34,
+         "base":"Jakarta"
       }
    }
 }
