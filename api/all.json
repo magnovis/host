@@ -2,7 +2,7 @@
    {
       "id":1,
       "name":"BBCA",
-      "slug":"1-BBCA",
+      "slug":"Bank Central Asia",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -32,7 +32,7 @@
       },
       "powerstats":{
          "intelligence":16,
-         "strength":3,
+         "strenght":3,
          "speed":11,
          "durability":54,
          "power":19,
@@ -46,7 +46,7 @@
    {
       "id":2,
       "name":"BBRI",
-      "slug":"2-BBRI",
+      "slug":"Bank Rakyat Indonesia (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -76,7 +76,7 @@
       },
       "powerstats":{
          "intelligence":17,
-         "strength":2,
+         "strenght":2,
          "speed":8,
          "durability":45,
          "power":15,
@@ -90,7 +90,7 @@
    {
       "id":3,
       "name":"BMRI",
-      "slug":"3-BMRI",
+      "slug":"Bank Mandiri (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"High Risk",
@@ -120,7 +120,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strength":2,
+         "strenght":2,
          "speed":16,
          "durability":48,
          "power":16,
@@ -134,7 +134,7 @@
    {
       "id":4,
       "name":"BBNI",
-      "slug":"4-BBNI",
+      "slug":"Bank Negara Indonesia (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -164,7 +164,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strength":2,
+         "strenght":2,
          "speed":8,
          "durability":45,
          "power":14,
