@@ -1,5 +1,5 @@
 [
-   "1":{
+   {
       "id":1,
       "name":"BBCA",
       "slug":"Bank Central Asia",
@@ -43,7 +43,7 @@
          "base":"62% Held"
       }
    },
-   "2":{
+   {
       "id":2,
       "name":"BBRI",
       "slug":"Bank Rakyat Indonesia (Persero)",
@@ -87,7 +87,7 @@
          "base":"60% Held"
       }
    },
-   "3":{
+   {
       "id":3,
       "name":"BMRI",
       "slug":"Bank Mandiri (Persero)",
@@ -131,7 +131,7 @@
          "base":"64% Held"
       }
    },
-   "4":{
+   {
       "id":4,
       "name":"BBNI",
       "slug":"Bank Negara Indonesia (Persero)",
