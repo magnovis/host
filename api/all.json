@@ -1,5 +1,5 @@
 [
-   {
+   "1":{
       "id":1,
       "name":"BBCA",
       "slug":"Bank Central Asia",
@@ -32,7 +32,7 @@
       },
       "powerstats":{
          "intelligence":16,
-         "strenght":3,
+         "strength":3,
          "speed":11,
          "durability":54,
          "power":19,
@@ -43,7 +43,7 @@
          "base":"62% Held"
       }
    },
-   {
+   "2":{
       "id":2,
       "name":"BBRI",
       "slug":"Bank Rakyat Indonesia (Persero)",
@@ -76,7 +76,7 @@
       },
       "powerstats":{
          "intelligence":17,
-         "strenght":2,
+         "strength":2,
          "speed":8,
          "durability":45,
          "power":15,
@@ -87,7 +87,7 @@
          "base":"60% Held"
       }
    },
-   {
+   "3":{
       "id":3,
       "name":"BMRI",
       "slug":"Bank Mandiri (Persero)",
@@ -120,7 +120,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strenght":2,
+         "strength":2,
          "speed":16,
          "durability":48,
          "power":16,
@@ -131,7 +131,7 @@
          "base":"64% Held"
       }
    },
-   {
+   "4":{
       "id":4,
       "name":"BBNI",
       "slug":"Bank Negara Indonesia (Persero)",
@@ -164,7 +164,7 @@
       },
       "powerstats":{
          "intelligence":13,
-         "strenght":2,
+         "strength":2,
          "speed":8,
          "durability":45,
          "power":14,
