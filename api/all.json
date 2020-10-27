@@ -1,8 +1,5 @@
 [
    {
-      "id":1,
-      "name":"BBCA",
-      "slug":"Bank Central Asia",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -24,11 +21,17 @@
          "groupAffiliation":"Banks—Regional",
          "relatives":"Financial Services"
       },
+      "id":{
+         "id":1
+      },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "sm":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "md":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
+      },
+      "name":{
+         "name":"BBCA.JK"
       },
       "powerstats":{
          "intelligence":16,
@@ -38,15 +41,15 @@
          "power":19,
          "combat":87
       },
+      "slug":{
+         "slug":"Bank Central Asia"
+      },
       "work":{
          "occupation":"21% Held",
          "base":"62% Held"
       }
    },
    {
-      "id":2,
-      "name":"BBRI",
-      "slug":"Bank Rakyat Indonesia (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -68,11 +71,17 @@
          "groupAffiliation":"Banks—Regional",
          "relatives":"Financial Services"
       },
+      "id":{
+         "id":2
+      },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "sm":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "md":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
+      },
+      "name":{
+         "name":"BBRI.JK"
       },
       "powerstats":{
          "intelligence":17,
@@ -82,15 +91,15 @@
          "power":15,
          "combat":36
       },
+      "slug":{
+         "slug":"Bank Rakyat Indonesia (Persero)"
+      },
       "work":{
          "occupation":"20% Held",
          "base":"60% Held"
       }
    },
    {
-      "id":3,
-      "name":"BMRI",
-      "slug":"Bank Mandiri (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"High Risk",
@@ -112,11 +121,17 @@
          "groupAffiliation":"Banks—Regional",
          "relatives":"Financial Services"
       },
+      "id":{
+         "id":3
+      },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "sm":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "md":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
+      },
+      "name":{
+         "name":"BMRI.JK"
       },
       "powerstats":{
          "intelligence":13,
@@ -126,15 +141,15 @@
          "power":16,
          "combat":26
       },
+      "slug":{
+         "slug":"Bank Mandiri (Persero)"
+      },
       "work":{
          "occupation":"16% Held",
          "base":"64% Held"
       }
    },
    {
-      "id":4,
-      "name":"BBNI",
-      "slug":"Bank Negara Indonesia (Persero)",
       "appearance":{
          "gender":"Medium Controversy Level",
          "race":"Medium Risk",
@@ -156,11 +171,17 @@
          "groupAffiliation":"Banks—Regional",
          "relatives":"Financial Services"
       },
+      "id":{
+         "id":4
+      },
       "images":{
          "xs":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "sm":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "md":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg",
          "lg":"https://cdn.jsdelivr.net/gh/magnovis/host/api/images/lg/644-superman.jpg"
+      },
+      "name":{
+         "name":"BBNI.JK"
       },
       "powerstats":{
          "intelligence":13,
@@ -169,6 +190,9 @@
          "durability":45,
          "power":14,
          "combat":15
+      },
+      "slug":{
+         "slug":"Bank Negara Indonesia (Persero)"
       },
       "work":{
          "occupation":"13% Held",
