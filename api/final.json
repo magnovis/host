@@ -9,7 +9,7 @@
          "hairColor":"Product & Service Incidents"
       },
       "biography":{
-         "fullName":"24907",
+         "fullName":"Bank Central Asia",
          "alterEgos":"PT Bank Central Asia Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
@@ -39,7 +39,7 @@
          "speed":11,
          "durability":54,
          "power":19,
-         "combat":87
+         "combat":24907
       },
       "slug":{
          "slug":"Bank Central Asia"
@@ -59,7 +59,7 @@
          "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
-         "fullName":"5951",
+         "fullName":"Bank Rakyat Indonesia (Persero)",
          "alterEgos":"PT Bank Rakyat Indonesia (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
@@ -89,7 +89,7 @@
          "speed":8,
          "durability":45,
          "power":15,
-         "combat":36
+         "combat":5951
       },
       "slug":{
          "slug":"Bank Rakyat Indonesia (Persero)"
@@ -109,7 +109,7 @@
          "hairColor":"Product & Service Incidents"
       },
       "biography":{
-         "fullName":"13939",
+         "fullName":"Bank Mandiri (Persero)",
          "alterEgos":"PT Bank Mandiri (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
@@ -139,7 +139,7 @@
          "speed":16,
          "durability":48,
          "power":16,
-         "combat":26
+         "combat":13939
       },
       "slug":{
          "slug":"Bank Mandiri (Persero)"
@@ -159,7 +159,7 @@
          "hairColor":"Product & Service Incidents,Society & Community Incidents"
       },
       "biography":{
-         "fullName":"20213",
+         "fullName":"Bank Negara Indonesia (Persero)",
          "alterEgos":"PT Bank Negara Indonesia (Persero) Tbk",
          "aliases":"IDR",
          "placeOfBirth":"Indonesia",
@@ -189,7 +189,7 @@
          "speed":8,
          "durability":45,
          "power":14,
-         "combat":15
+         "combat":20213
       },
       "slug":{
          "slug":"Bank Negara Indonesia (Persero)"
