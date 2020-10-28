@@ -39,7 +39,8 @@
          "speed":11,
          "durability":54,
          "power":19,
-         "combat":24907
+         "combat":24906,
+         "low":87
       },
       "slug":{
          "slug":"Bank Central Asia"
@@ -89,7 +90,8 @@
          "speed":8,
          "durability":45,
          "power":15,
-         "combat":5951
+         "combat":5951,
+         "low":36
       },
       "slug":{
          "slug":"Bank Rakyat Indonesia (Persero)"
@@ -139,7 +141,8 @@
          "speed":16,
          "durability":48,
          "power":16,
-         "combat":13939
+         "combat":13939,
+         "low":26
       },
       "slug":{
          "slug":"Bank Mandiri (Persero)"
@@ -189,7 +192,8 @@
          "speed":8,
          "durability":45,
          "power":14,
-         "combat":20213
+         "combat":20213,
+         "low":15
       },
       "slug":{
          "slug":"Bank Negara Indonesia (Persero)"
